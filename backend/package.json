@@ -1,0 +1,12 @@
+{
+  "name": "blog-backend",
+  "version": "1.0.0",
+  "description": "Cloud Native Blogging Backend",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
